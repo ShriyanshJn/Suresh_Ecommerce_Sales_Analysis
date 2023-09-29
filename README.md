@@ -32,12 +32,12 @@ The owner of the Suresh E-Commerce Store wants us to create an [interactive dash
 
 ## **Project Insight**
 
-- Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), Electronics (21%), and furniture (17%) (Printers, Bookcases, Saree, etc.).
-- The store generates the maximum profits from January to April and December.
-- The states of Maharashtra, Madhya Pradesh, and Uttar Pradesh are the top 3 product buyers.
-- The customers Harivansh, Madhav, and Madan Mohan are the top 3 product buyers.
-- Generally, the customers use the Cash on Delivery (44%) and UPI (21%) modes of Payment.
+- The trio of Maharashtra, Madhya Pradesh, and Uttar Pradesh reign supreme as the top three states in terms of Suresh Store sales.
+- The Store kicks off the year with a profit surge, from January to April, and enjoys another peak from August to November.
+- A three-month stint in the dark yellow, from May to July, tested the Store's resilience.
+- Among the product categories, clothing steals the spotlight with a commanding 63%, followed by electronics at 21%, and furniture with a solid 17%.
+- When it comes to payment preferences, cash on delivery (COD) leads the way with a strong 44%, followed by UPI at 21%, and debit cards at 13%.
 
 ## **Final Conclusion**
 
-Customers living in Maharashtra, Madhya Pradesh, and Uttar Pradesh purchase most of the products such as Clothing, Electronics, and Furniture. To improve sales of the Suresh E-Commerce Store, the owner must show maximum ads, and sales using offers/coupons in the months from January to April and December.
+Customers living in Maharashtra, Madhya Pradesh, and Uttar Pradesh purchase most of the products such as Clothing, Electronics, and Furniture. To improve sales of the Suresh E-Commerce Store, the owner must show maximum ads and offer discounted prices and coupons in the months from January to April and December.
